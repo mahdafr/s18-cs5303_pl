@@ -1,0 +1,7 @@
+# Ignore bin and settings
+bin/
+.settings/
+
+# Ignore files
+.classpath
+.project
