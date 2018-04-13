@@ -1,4 +1,4 @@
-# s18-cs5303_pl Programming Project (Option 2: Predicate Logic)
+# CS5303 Programming Project (Option 2: Predicate Logic)
 
 ## General Description
 For the CS5303 course, I will be doing the Predicate Logic Programming Assignment (Option 2). The program will prompt the user for a predicate logic expression (see accepted input below). The program will prompt the user to choose from the following:
