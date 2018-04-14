@@ -7,13 +7,17 @@ For the CS5303 course, I will be doing the Predicate Logic Programming Assignmen
 * Transform the Skolemized form into Conjunctive Normal Form (CNF).
 * Transform the Skolemized form into Disjunctive Normal Form (DNF).
 
+## Link to GitHub Repository
+The project/program is available for download/viewing at: https://github.com/mahdafr/s18-cs5303_pl
+
 ### Design
-The project follows a Model-View Controller (MVC) design with a GUI/Frontend, Backend, and a Controller to handle communications between the two.
+The project follows a Model-View Controller (MVC) software design with a GUI/Frontend, Backend, and a Controller to handle communications between the two.
 
 ## To Run
-### Current Release
-V1.1 contains a functional GUI AND stubs for each classes.
-V1.0 contains a functional GUI.
+### Releases
+1.0 contains a functional GUI.
+1.1 contains a functional GUI AND stubs for each class.
+1.2 contains a functional GUI, stubs for each class, and flowcharts (in PDF and Word formats)
 
 ### Accepted Forms of Input
 The syntax we will use for propositional formulas is the following: i.e., here are rules that should be used when putting together propositional formulas.
@@ -31,8 +35,9 @@ The syntax we will use for propositional formulas is the following: i.e., here a
 	* _note that the parentheses are important, and part of the syntax to be used._
 
 ## Progress
-### Apr13 Flow-Chart / Stubs / Readme
-* Contains a Flow-Chart presented as a Word document.
-* Contains a functional GUI.
+### Mar23 GUI / Backend Stubs
+* Contains a functional GUI/Frontend.
 * Contains a stubbed-Backend.
-* Contains a Readme up to V1.1.
+### Apr13 Flow-Chart / Readme
+* Contains a Flow-Chart presented as both PDF and Word documents.
+* Contains a Readme up to V1.2.
