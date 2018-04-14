@@ -10,14 +10,22 @@ For the CS5303 course, I will be doing the Predicate Logic Programming Assignmen
 ## Link to GitHub Repository
 The project/program is available for download/viewing at: https://github.com/mahdafr/s18-cs5303_pl
 
-### Design
-The project follows a Model-View Controller (MVC) software design with a GUI/Frontend, Backend, and a Controller to handle communications between the two.
+### Design / Environment
+The project follows a Model-View Controller (MVC) software design with a GUI/Frontend, Backend, and a Controller to handle communications between the two. The program is built in a Windows 10 Home environment, using an Intel i7 7th-gen processor and 16GB installed RAM. The program is developed in Eclipse Java Oxygen3 (Release 4.7.3) using java1.8u144.
 
 ## To Run
+As of Apr13, there is no executable/jar for the program. To run (in the terminal):
+1. Navigate to the src directory of the project.
+2. In a Windows terminal with java SDK installed, build the Main.java file (javac Main.java).
+3. Running this build will create an instance of the program (java Main).
+4. Program compiles/runs with no warnings/errors.
+5. Program has no backend behavior (see code in src/pa/ and src/utils/ directories), but will exit on command (-1).
+
 ### Releases
-1.0 contains a functional GUI.
-1.1 contains a functional GUI AND stubs for each class.
-1.2 contains a functional GUI, stubs for each class, and flowcharts (in PDF and Word formats)
+* v1.1 contains a functional GUI
+* v1.2 contains a functional GUI AND stubs for each class
+* v1.3 contains a functional GUI, stubs for each class, and flowcharts (in PDF and Word formats)
+* v1.4 contains all above, and a readme with the description of how to run
 
 ### Accepted Forms of Input
 The syntax we will use for propositional formulas is the following: i.e., here are rules that should be used when putting together propositional formulas.

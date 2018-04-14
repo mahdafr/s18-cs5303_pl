@@ -2,6 +2,9 @@
 bin/
 .settings/
 
-# Ignore files
+# Ignore files for eclipse
 .classpath
 .project
+
+# Ignore metafiles (for builds)
+*.class
