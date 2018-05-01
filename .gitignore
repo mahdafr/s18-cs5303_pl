@@ -1,6 +1,8 @@
 # Ignore bin and settings
 bin/
 .settings/
+.idea/
+out/
 
 # Ignore files for eclipse
 .classpath
@@ -8,3 +10,4 @@ bin/
 
 # Ignore metafiles (for builds)
 *.class
+*.iml
